@@ -99,4 +99,4 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunkl
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-013103.jpg",ALTV4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
-=============================
+==============================
